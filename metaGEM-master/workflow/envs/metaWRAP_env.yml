@@ -1,0 +1,23 @@
+name: metawrap
+channels:
+  - ursky
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - metawrap-mg>=1.2.3
+  - python=2.7
+  - biopython 
+  - bowtie2 
+  - bwa 
+  - checkm-genome 
+  - matplotlib
+  - megahit 
+  - pandas
+  - quast 
+  - r-ggplot2 
+  - r-recommended 
+  - salmon
+  - samtools
+  - seaborn
+  - spades
